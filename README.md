@@ -59,9 +59,9 @@
 
 ### 🧠 Currently Learning
 
-- Java Full Stack (Spring Boot + React)
+- Java Full Stack Spring Boot
 - Machine Learning & AI Concepts
-- Real-world App Deployment with Firebase, Flask, and APIs
+- Real-world App Deployment 
 
 ---
 
