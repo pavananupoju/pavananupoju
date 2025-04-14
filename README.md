@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">🚀 Full-Stack Developer | 💻 ML Enthusiast | 🌱 Lifelong Learner</h3>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=700&height=50&lines=I+build+Web+%26+Mobile+Apps+with+real+impact;Exploring+Java+Fullstack+%7C+Machine+Learning;Open+to+collaboration+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
